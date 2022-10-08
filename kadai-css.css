@@ -1,5 +1,10 @@
 @charset "UTF-8";/*エンコーディングの記述*/
 
+body{
+  width: 1000px;
+  
+}
+
 header{
   background-color: #ffcccc;
   margin: 0;
